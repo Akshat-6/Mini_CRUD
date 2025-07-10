@@ -45,4 +45,11 @@ npm install
 
 3. Start MongoDB server (ensure mongod is running locally or use MongoDB Atlas)
 
+4. Start the server:
+
+
+npm start
+
+
+
 
