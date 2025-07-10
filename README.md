@@ -53,3 +53,12 @@ npm start
 
 
 🚀 API Endpoints
+
+
+| Method | Route           | Description           |
+| ------ | --------------- | --------------------- |
+| GET    | `/`             | Health check          |
+| POST   | `/students`     | Add a new student     |
+| GET    | `/students`     | Retrieve all students |
+| PUT    | `/students/:id` | Update student by ID  |
+| DELETE | `/students/:id` | Delete student by ID  |
