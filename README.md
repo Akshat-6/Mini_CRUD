@@ -23,3 +23,5 @@ Organized folder structure for scalability
 Node.js
 
 Express.js
+
+MongoDB + Mongoose
