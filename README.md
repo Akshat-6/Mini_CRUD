@@ -27,3 +27,7 @@ Express.js
 MongoDB + Mongoose
 
 Thunder Client - Extension on VS Code (for API testing)
+
+
+🛠️ Installation
+
