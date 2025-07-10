@@ -19,3 +19,5 @@ Organized folder structure for scalability
 
 
 📦 Tech Stack
+
+Node.js
