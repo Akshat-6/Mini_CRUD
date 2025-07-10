@@ -37,4 +37,7 @@ cd minicrud
 npm install dotnet mongoose
 
 
-npm install
+Install dependencies:
+
+
+
