@@ -62,3 +62,7 @@ npm start
 | GET    | `/students`     | Retrieve all students |
 | PUT    | `/students/:id` | Update student by ID  |
 | DELETE | `/students/:id` | Delete student by ID  |
+
+
+
+🧪 Sample MongoDB Schema (Student)
