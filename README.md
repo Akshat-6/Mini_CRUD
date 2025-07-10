@@ -66,3 +66,13 @@ npm start
 
 
 🧪 Sample MongoDB Schema (Student)
+
+{
+  name: "John Doe",
+  email: "john@example.com",
+  address: {
+    street: "123 Main St",
+    city: "New York",
+    zip: "10001"
+  }
+}
