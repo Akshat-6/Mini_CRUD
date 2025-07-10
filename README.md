@@ -40,4 +40,5 @@ npm install dotnet mongoose
 Install dependencies:
 
 
+npm install
 
