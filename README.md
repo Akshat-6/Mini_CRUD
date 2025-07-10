@@ -5,3 +5,6 @@ A mini backend application with RESTful APIs to perform CRUD operations on a sam
 MiniCRUD 🚀
 
 A minimal Node.js + Express + MongoDB CRUD app demonstrating basic REST API operations using Mongoose.
+
+
+✨ Features
