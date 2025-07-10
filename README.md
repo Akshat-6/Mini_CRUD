@@ -8,3 +8,5 @@ A minimal Node.js + Express + MongoDB CRUD app demonstrating basic REST API oper
 
 
 ✨ Features
+
+Health check route (GET /)
