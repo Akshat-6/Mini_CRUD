@@ -14,3 +14,5 @@ Health check route (GET /)
 Create and retrieve student data
 
 MongoDB-based schema with nested address field
+
+Organized folder structure for scalability
