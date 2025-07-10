@@ -29,11 +29,12 @@ MongoDB + Mongoose
 Thunder Client - Extension on VS Code (for API testing)
 
 
-Install dependencies:
-
 
 🛠️ Installation
 
 git clone https://github.com/YOUR_USERNAME/minicrud.git
 cd minicrud
 npm install dotnet mongoose
+
+
+npm install
