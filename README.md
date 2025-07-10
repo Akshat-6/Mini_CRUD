@@ -16,3 +16,6 @@ Create and retrieve student data
 MongoDB-based schema with nested address field
 
 Organized folder structure for scalability
+
+
+📦 Tech Stack
