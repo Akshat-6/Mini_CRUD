@@ -82,3 +82,10 @@ npm start
 
 Especially if this was part of a course or self-learning:
 
+
+### 📚 What I Learned
+- RESTful API design using Express.js
+- MongoDB schema modeling with Mongoose
+- Environment setup with dotenv
+- Basic routing and middleware concepts
+
