@@ -31,3 +31,6 @@ Thunder Client - Extension on VS Code (for API testing)
 
 🛠️ Installation
 
+git clone https://github.com/YOUR_USERNAME/minicrud.git
+cd minicrud
+npm install dotnet mongoose
