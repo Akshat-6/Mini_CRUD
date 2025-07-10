@@ -12,3 +12,5 @@ A minimal Node.js + Express + MongoDB CRUD app demonstrating basic REST API oper
 Health check route (GET /)
 
 Create and retrieve student data
+
+MongoDB-based schema with nested address field
