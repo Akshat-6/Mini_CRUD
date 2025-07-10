@@ -79,3 +79,6 @@ npm start
 
 
  Takeaways
+
+Especially if this was part of a course or self-learning:
+
