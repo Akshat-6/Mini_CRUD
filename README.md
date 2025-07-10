@@ -30,15 +30,19 @@ Thunder Client - Extension on VS Code (for API testing)
 
 
 
-🛠️ Installation
+1. 🛠️ Installation
 
 git clone https://github.com/YOUR_USERNAME/minicrud.git
 cd minicrud
 npm install dotnet mongoose
 
 
-Install dependencies:
+2.Install dependencies:
 
 
 npm install
+
+
+3. Start MongoDB server (ensure mongod is running locally or use MongoDB Atlas)
+
 
